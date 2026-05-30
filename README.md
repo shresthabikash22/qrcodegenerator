@@ -84,7 +84,7 @@ pip install qrcode[pil]
 Run the Python script:
 
 ```bash id="r2n8zz"
-python qr_generator.py
+python qrcode-generator.py
 ```
 
 The program will generate a QR code image for the Biox Systems website.
@@ -107,7 +107,7 @@ https://www.bioxsystems.com/
 ```text
 qrcodegenerator/
 │
-├── qr_generator.py
+├── qrcode-generator.py
 ├── requirements.txt
 ├── README.md
 ├── qrcode.png
